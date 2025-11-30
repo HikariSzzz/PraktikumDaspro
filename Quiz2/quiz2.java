@@ -84,7 +84,7 @@ public class quiz2 {
         System.out.printf("  - Hari dengan konsumsi tertinggi: %s (%.2f mkubik)%n", hari[hariMax], totalPerHari[hariMax]);
         System.out.printf("  - Wilayah dengan total tertinggi: %s (%.2f mkubik)%n", nama[wilayahMax], totalPerWilayah[wilayahMax]);
         System.out.printf("  - Rata-rata konsumsi harian semjua wilayah: %.2f mkubik%n", rataRataPerHariSeluruhWilayah);
-        // buatkan saya flow
+        
         sc.close();
 
 

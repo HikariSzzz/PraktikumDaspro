@@ -18,7 +18,7 @@ public class hitungBalok29 {
         System.out.println("Volume balok adalah " + vol);
         sc.close();
     }
-
+ 
     public static int hitungLuas(int pjg, int lbr) {
         return pjg * lbr;
     }

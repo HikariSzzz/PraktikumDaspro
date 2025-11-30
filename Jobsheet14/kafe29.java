@@ -5,7 +5,7 @@ public class kafe29 {
         Scanner sc = new Scanner(System.in);
         String kodePromo = "DISKON50";
         int totalBayar = 0;
-
+ 
         do {
             menu("Budi", true, kodePromo);
 

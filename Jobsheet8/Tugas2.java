@@ -47,5 +47,6 @@ public class Tugas2 {
             System.out.println(); 
         }
         }
+    input.close();
     }
 }

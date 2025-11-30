@@ -5,7 +5,7 @@ public class Tugas2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         
-        int jeniskendaraan, durasi, total = 0 , totalbayar = 0;
+        int jeniskendaraan, durasi, total = 0;
 
         do{
             System.out.println("===== Sistem Parkir =====");
@@ -30,6 +30,7 @@ public class Tugas2 {
                 
             }
             System.out.println("Total biaya parkir: Rp " + total);
+        sc.close();
         } while (jeniskendaraan != 3);
     }
 }

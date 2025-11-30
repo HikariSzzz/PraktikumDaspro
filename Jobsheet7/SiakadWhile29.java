@@ -33,6 +33,7 @@ public class SiakadWhile29 {
             }
             i++;
         }
+    sc.close();
     }
     
 }

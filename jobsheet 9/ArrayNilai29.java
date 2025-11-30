@@ -18,6 +18,6 @@ public class ArrayNilai29 {
             }
         
         }
-
+        sc.close();
 }
 }

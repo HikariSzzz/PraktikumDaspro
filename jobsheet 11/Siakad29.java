@@ -35,6 +35,7 @@ public class Siakad29 {
             }
 
             System.out.println("Mata Kuliah " + (j + 1) + ": " + totalPerMatkul / jmlMhs);
+        input.close();
         }
     }
 }

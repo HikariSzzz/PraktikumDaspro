@@ -38,5 +38,6 @@ public class Tugas1 {
         for (int i = 0; i < Nilai.length; i++) {
             System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah " + Nilai[i]);
         }
+    inpur.close();
     }
 }

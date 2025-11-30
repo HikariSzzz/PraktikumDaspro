@@ -69,6 +69,7 @@ public class BioskopWithScanner29 {
                 default:
                     System.out.println("Menu tidak ada");
             }
+        input.close();
         } while (true);
     }
 }

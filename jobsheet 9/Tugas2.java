@@ -29,5 +29,6 @@ public class Tugas2 {
         } while (i == 0);
 
         System.out.println("Total Biaya = $ " + ttal);
+    inpur.close();
     }
 }

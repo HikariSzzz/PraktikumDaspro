@@ -33,6 +33,6 @@ public class tugas {
 
         System.out.println("------------------------------------------------");
         System.out.println("Total rata-rata poin keseluruhan pelanggan: " + totalPoin / surveyPelanggan.length);
-
+        sc.close();
     }
 }

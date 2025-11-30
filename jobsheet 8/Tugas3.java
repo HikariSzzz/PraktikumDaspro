@@ -31,5 +31,7 @@ public class Tugas3 {
         System.out.println("Total Seluruh cabang");
         System.out.println("Pelanggan   : " + jtp);
         System.out.println("Item        : " + jti);
+
+        inpur.close();
     }
 }

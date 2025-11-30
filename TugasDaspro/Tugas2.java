@@ -10,5 +10,6 @@ public class Tugas2 {
         } else {
             System.out.println(angka + " bilangan tersebut ganjil.");
         }
+        scanner.close();
     }
 }

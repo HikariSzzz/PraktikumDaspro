@@ -11,6 +11,8 @@ public class Square29 {
             System.out.print("*");
         }
         System.out.println();
+
+        sc.close();
     }
     }
 }

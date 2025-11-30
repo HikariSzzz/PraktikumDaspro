@@ -26,5 +26,6 @@ public class Tugas3 {
             System.out.println("Menu "+cari+" Tidak Tersedia");
             System.out.println("---------------------------------------------");
         }
+    sc.close();
     }
 }

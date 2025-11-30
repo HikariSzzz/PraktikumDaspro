@@ -18,5 +18,6 @@ public class ifCetakKRS29 {
             ? "Pembayaran UKT terverifikasi"
             : "Silahkan cetak KRS dan minta tanda tangan DPA";
         System.out.println(hasil);
+    sc.close();
     }
 }

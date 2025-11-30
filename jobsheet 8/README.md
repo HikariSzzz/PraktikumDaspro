@@ -1,4 +1,4 @@
-# 🧪 PRAKTIKUM 9
+# 🧪 PRAKTIKUM 8
 
 Berisi hasil percobaan dari praktikum dasar pemrograman miinggu ke 9
 
